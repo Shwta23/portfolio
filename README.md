@@ -2,7 +2,11 @@
 
 A modern **Portfolio Website** built with [Next.js](https://nextjs.org), styled for performance and responsiveness.  
 
+
+
 ![portfolio.png](https://github.com/Shwta23/portfolio/blob/main/public/image/portfolio.png)
+
+
 
 ---
 
