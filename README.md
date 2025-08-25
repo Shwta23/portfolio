@@ -2,7 +2,7 @@
 
 A modern **Portfolio Website** built with [Next.js](https://nextjs.org), styled for performance and responsiveness.  
 
-![Portfolio Preview](https://github.com/Shwta23/portfolio/blob/main/public/portfolio.png)
+![portfolio](https://github.com/Shwta23/portfolio/blob/main/public/portfolio.png)
 
 ---
 
@@ -30,7 +30,7 @@ A modern **Portfolio Website** built with [Next.js](https://nextjs.org), styled 
 Clone the repo and run locally:  
 
 ```bash
-git clone https://github.com/aaksh33/portfolio.git
+git clone https://github.com/shwta23/portfolio.git
 cd portfolio
 npm install
 npm run dev
